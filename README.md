@@ -1,4 +1,4 @@
-# Personality Game
+# Personality Test
 
 This is a small personality-style game built in Java.
 
